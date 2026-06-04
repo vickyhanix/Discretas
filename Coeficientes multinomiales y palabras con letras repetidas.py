@@ -49,7 +49,7 @@ if opcion == 1:
 else:
     entrada = input("¿Cuántos tipos de letras diferentes hay?: ")
     while not entrada.isdigit() or int(entrada) < 1:
-        print("Debe ingresar un número entero positivo mayor que 0.")
+        print("Debe ingresar un número entero positivo mayor que 0")
         entrada = input("¿Cuántos tipos de letras diferentes hay?: ")
     k = int(entrada)
 
