@@ -72,10 +72,10 @@ print()
 
 #Cálculo de números de n cifras que empiezan con un dígito dado
 print("Ahora vamos a calcular los números que empiezan con un dígito específico")
-entrada = input("Ingrese el dígito inicial (1–9): ")
+entrada = input("Ingrese el dígito inicial: ")
 while not entrada.isdigit() or int(entrada) < 1 or int(entrada) > 9:
-    print("El dígito inicial debe estar entre 1 y 9. Por favor ingrese otro dígito.")
-    entrada = input("Ingrese el dígito inicial (1–9): ")
+    print("El dígito inicial debe estar entre 1 y 9. Por favor ingrese otro dígito")
+    entrada = input("Ingrese el dígito inicial: ")
 inicio = int(entrada)
 
 calcinicio = 1
@@ -119,7 +119,7 @@ i = 0
 while i < cantdigitos:
     entrada = input("Ingrese un dígito (0–9): ")
     while not entrada.isdigit() or int(entrada) < 0 or int(entrada) > 9:
-        print("Debe ingresar un dígito válido entre 0 y 9.")
+        print("Debe ingresar un dígito válido entre 0 y 9")
         entrada = input("Ingrese un dígito (0–9): ")
     d = int(entrada)
     digitos = digitos + [d]
