@@ -2,7 +2,7 @@
 Coeficientes multinomiales y palabras con letras repetidas.  
 Números de n cifras con restricciones.
 
-## Instrucciones de uso (Desde la terminal de Windows):
+> Instrucciones de uso (Desde la terminal de Windows):
 - Clonar el repositorio:
      ```
      git clone https://github.com/vickyhanix/Discretas.git
@@ -11,6 +11,7 @@ Números de n cifras con restricciones.
     ```
     cd .\Discretas\
     ```
+> Ejecución 
 - Ejecutar el primer código (Coeficientes multinomiales y palabras con letras repetidas):
     ```
     python3 '.\Coeficientes multinomiales y palabras con letras repetidas.py'
@@ -36,4 +37,4 @@ Números de n cifras con restricciones.
      - Ingrese el tamaño __l__ de un conjunto y __l__ dígitos diferentes para calcular la cantidad de cifras (cada una con __n__ dígitos) en el conjunto.
            
        ![Tercera parte](https://lh3.googleusercontent.com/rd-d/ALs6j_GGBhDF6yayst2f0SWicwB1tUDxQxX6oTysEW43UjMInpGtN1mH0RVwY522aVDpyxNRtG3rQ0nCVyEoujeLb_VNY5_XMjpQ8mFYpZGUfL2vBuQP22osJyjaQ-0Rq6ryeHQHqeyf3KTTTp1jcZPjCbZQ95r8ROPgIwYuX7FarHXAGa2CkghGTaneqi7q5pQZjp9cGZYXkkZKyrxKiFgDNWIl4FjAynEnThZwPMACz6Zs5LsN5Z2TeRkGr7f8lWaSi4Zpx5sl8obTz8f_W05IYRygHiazhb3Xd7BRduHJwRO6YQkTcKS-WFEj99NG9O2gFOwydLOsxyShH3tjS1zRwLkrItYz8pCBZxPBcwQEJRVic99MYUWxHfzahm_isZWPiY4P7LriH3vawKSz3QwSr9E-iQPKIar5ReFEOwK03oQB-JkXI9qz9tykH3mo-N3n8VtWgY_NBFult6sTkA1YmsZR5e5qK25zsLrHZGVwp20lxbvSfmwoOV4wxEGhYYvTnZcV9e92db1VRXvXe7kbG7ecbt9ttMimo546uFCDXDqOwdrLIH40X4jHMyxPwPMruvh6Wh2UFYcNXtp-AVrIvFmhjzkA8dgO8U7EpFDgSO7yuqkDTRinINx-ZVUewr7kca7UlxcQSR82TBYqrduaTp7HxmwiFDt2efQFRd7M36Xg667Q_E-67fCfPaDj1amYWxfLVQiLWsyyJy_9R8jSH6w3vKEZ5sBawC7Hy5BkuyNQmHn63bZ8xBRWbizKtr7Qx7g_-4XABc-j5zBm17pR2qthtkLb4LMeyqIJo4lyczCetsv3_SOtATcIPFHuon7s0j_91VvvP3GK9-IGACh8TrglKQx3r8SDU_rnPdyUM_skEFFgRNZBAml7zwPxEEfR5rHtdQhIejYMmhL62V_cwAzKCwwowcdDafU3qazYV-LrWdXo3I0hiCa9EZ_6alT_DAZKrJpLipoSvXRBAuwLjGyoAFWG6BKFifn7fJDGVV3wtHnIylUMgUgdyJVRI2QZdspHAoHHVPtgMSanqBeAan5Yv9OKIP0fke0d4iuOXb9YIoQSRjYt41Ugor40Fi3kls2EvLIapiwWdFeFZGO_raSG91I63mFkb0RndcsusUSDK0_J5xh0pbhyODPqgzo4gfUrc_wNy1t4FYLvt8Y-QAb2YrOvsa9MXiBWbM3xmqkCaTem8ruAhl71SgwhRnEuzIUI570=w1317-h914?auditContext=prefetch)
-### ¡Muchas gracias por usar nuestros programas :D!
+### `¡Muchas gracias por usar los programas :D!`
