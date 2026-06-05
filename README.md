@@ -1,5 +1,22 @@
 # Discretas
-Coeficientes multinomiales y palabras con letras repetidas
-Números de n cifras con restricciones
-## Instrucciones de uso:
-- 1: 
+Coeficientes multinomiales y palabras con letras repetidas.
+Números de n cifras con restricciones.
+## Instrucciones de uso (Desde la terminal de Windows):
+- Clonar el repositorio:
+     ```
+     git clone https://github.com/vickyhanix/Discretas.git
+     ```
+- Dirigirse a la carpeta contenedora:
+    ```
+    cd .\Discretas\
+    ```
+- Ejecutar el primer codigo (Coeficientes multinomiales y palabras con letras repetidas)
+    ```
+    python3 '.\Coeficientes multinomiales y palabras con letras repetidas.py'
+    ```
+- Elegir el modo de uso:
+    - Ingresar una palabra o cadena: Ingresa una cadena de texto para calcular la cantidad de palabras que se pueden formar a partir de la misma:
+      
+      ![Imagen de cadena de texto](https://lh3.googleusercontent.com/rd-d/ALs6j_EQpBW_YipnfgnjGUwr6kPNhSj2aDE4qg6jggk8Jgy5dlBBZ-0jwxgsQoZHtznz6LtaQfLU9c5kpM6I82Jz6hGKpmunI6oPeiO6mzgM_UEcBvRYiVScB2sRKkilNkH_3cRONSnRsYSCr1k_NZpf5kSb0YzsjRMIzPhA22TTZ8PhtHmHV-XZT4vZJKcsgeG3vtl0n5ZzEFSt2L8ml0LYIzFyijjeRM0TBpFnxo3d3MxgDYXQEGsj2QCuZ_kvSuYmF6Mnr1Xi3zjVwIw2uO2V3Ra4UNwWNsFmNHjwpLXZNfyeL-vui_5KiHygtC21yZ377AoOlKrCvZz7CcUTUHt6RDBKtEwtxuLSuFKQmQGmgd7sOTDR4dhiV2wZ8yn44ZPCy13syIbhZdkHi121c-tf92DSYzBHMfaCE5b6sKDGGV54q_e2H4gCV87C930VXQ-6K9WrZlGzoV7nRuvaq7l69p0cU3JLp0CTVUzLWRcM_GFAXCwztIVsS-5X2qwtTPkVcrrsuI83XushESDOZ6yRwfOM1TUhLulBDhkiqrgytG0dxS-s77shUUbi7WNQc4w7BON6SszW0QduHJYRAsSQWAcmFDFd2oywkf_B5xPTFKuq_iwyDPJHfp2ZeTF3V2hj2VffTIYxm9ZHZI3fWiL6Dzo4R8D0qDyAunWxSE-NoKIFP9-Ge7H-0em6vEsHN00wzOh9zFwl2TkccRqR8nNrLbVNX--z33tuIm9oUejjzWYz0Nk9k8qHbs6kv5yzspfe_uGAr8rKKK3XHoE6d_gO_F6kdk9dRQRhalWVfufEnN7R_HR2AzOjnNYSTrdv9KquOzFpAMbAD9k04ca2ljP2rqAvbvCo2tY_67K0_EdKJmpgyPg6oXdw7cjSLxFNCGmYebZqtgPVYj-udUNaNriBH274Lv5wLfH2-X6lNdBnFVgDSZPdToSBiE4C-o3h_eIJ_GNPqCpFGG_nyBlMoYHH8B5wHPhkHQmty6n8aY2TMqtOoomQgwcKKKOKIECLnSemYXLEtvEWXJY6bLTHrNmchCD9dfkgf6APEmrhQcDuwebc7Q0FCrTJ1qYdj7E61aT7CgD8aK78YynXjM1qz0aqNCHQ-iiPP70_qg1wKiLAl7OUs3fjtLXY2YbkgGvc1zYZEeRYrtDn4zYEK1DHM7cZL4fVDgU4qz8Z_rADlCylsrswsGznrmZZE5Pun1DOI14koGqhjLpD=w1872-h914?auditContext=prefetch)
+    - Ingresar una lista de cantidades (n1, n2, ..., nk): Ingresa un numero de caracteres diferentes y la cantidad de veces que se repite cada uno para encontrar el numero de distintas combinaciones.
+      ![Imagen de numero de combinaciones](https://lh3.googleusercontent.com/rd-d/ALs6j_HPtloN76-Znn2CzzXta8h2GUJkjovLPjfYCFGT5KV4JD316kKl6VM7R6TMdhUhDCpkr3FymwJeMGhOW8qY2rezvgoIRbYWc6gDs1pZbnDQj1Pf0tEG4FulIkzAhMD0WCWLhBodSqC_qxichTUm3IyL7U4DNq6aGw6w7Qp5zfD8FHtUyMvr66kpxuX5jlca-pg6qCi1fg8bodcWYu6La46WiWVuOYFzruyHG-zBItVgHPrdZvOX-9y-56UL5J9Q78atHc42wt7nObQIoY8iaR9bbSW7dVaPqAdew5MYkPGvjDQ9IJgYORu9a5N8bzcGYrXjMHb1-6zzMUW67OnUKuKNW6lL176K6pRq20TQPJJNlKPGHVEQahyyaUndOQAu5AdIoczfh3DJSxULwzk-6W5TRVPwFkcNp7pNqg5WHE7Uq_U5-PtVYZXYwKdyIYbQ_NRaxg7g62iZJUJBB4p6Q3FZtcASfXW3r0xU_tw6CMrX9szk9fiqpNkcyHZyIo0XTqGVAxaN9uuHmGQL8gDH5QuTOU9zTYJMSQ8UwSdU6uVEJTomXjsnm3REt06WWPyQbLwdNreeLYyJRxVhw0nX03AWNqPbZQk7U_gYxjgHPoYmutRJ2o6X8YBEz_ucSoyJx6cHor6c6Qf2b1nqFOnQpL3Qh2fYfO8JS32BACuH7lX4Yeo6QTGB97w6E9-Hj9AERMMMmOrxscbVh0V6iTGJy0OAwIYYmi3WMbSw0ZNP_ydMzJzHq1ySy4CHYEqnr9VIj0F_auBafHr0Ah7NNVYrAg1gtxqDnwQ_CcMl76Ec0UDcQ9oOdTUyPosTw2WXCS4zOvNYRqxk9FKR6I8ZDdJK7yI0_O4y-3WHZUVHCRy22EVKLT58A4WwJrTiAZ-f3egWAGWA5GXMnFKbHz_beL3dQWJpZ4pFtdQ27pdMy-ZNlev7bdz3_fvM9uGnlwmwLS71gCQIMH0YspDAVnEJhdHrYsjCpeVYkenxuhEgUfVGgx-oqD5cfYCFKcCPPLWVlZN39QddF7kasDXVJbiOyexMkTb8lYzJsZm3M_wsifh1K9nZ0x03yR4uAqpXo9t1yJP-QbGW9unQawIoMDZL9gPbl5gQyewLUG5DCImkFGhuyEyd2XMEPMjTbvUnDpyGn_Z0hxUG6E2Mp6TAO-2hcCdYMyK8Rswi6TzWrXgXpzttLVs_3nwPHQBq9ER-JFq13sWkYzb2oJc=w1872-h914?auditContext=prefetch)
